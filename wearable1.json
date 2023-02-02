@@ -1,8 +1,8 @@
 {
-  "id": "urn:decentraland:matic:collections-v2:0xa48d3e4bf8fe2f93aed1b082fd5141eae1031b7e",
+  "id": "urn:decentraland:matic:collections-v2:0x36c8c4fc4d7208e3eddfb81e776a54e73b14bbcb",
   "name": "Hat",
   "description": "Green Hat...",
-  "collectionAddress": "0xe793801829e0e0f9aa5baf9877320059d9f4a654",
+  "collectionAddress": "0x36c8c4fc4d7208e3eddfb81e776a54e73b14bbcb",
   "rarity": "Unique",
   "i18n": [
     {
